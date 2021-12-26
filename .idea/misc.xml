@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/drawable/cardbackground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/drawable/correct.xml" value="0.2703125" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/drawable/questions.xml" value="0.2703125" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/drawable/selectedquestion.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/drawable/wrongoption.xml" value="0.2703125" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/layout/activity_ending.xml" value="0.264" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/layout/activity_getuser.xml" value="0.264" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/layout/activity_questionone.xml" value="0.264" />
+        <entry key="..\:/Users/Shahzad Haider/AndroidStudioProjects/Myappthis/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
